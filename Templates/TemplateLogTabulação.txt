@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------
+Inicio do Log
+
+Cabeçalho do Log:
+Dados do PID:
+CPF: [PlaceHolderCPF]
+Nome Completo: [PlaceHolderNome]
+Bandeira: [PlaceHolderBandeira]
+Ultimos 4 Digitos do Cartão: [PlaceHolderUltimos]
+Telefone de Cadastro: [PlaceHolderTelCadastro]
+Telefone de Contato: [PlaceHolderTelContato]
+
+PID Aleatório 1: [PlaceHolderPid1]
+Resposta: [PlaceHolderRespostaPid1]
+PID Aleatório 2: [PlaceHolderPid2]
+Resposta: [PlaceHolderRespostaPid2]
+
+Dados do Atendimento:
+Cliente: [PlaceHolderCliente] entrou em contato informando que:
+[PlaceHolderMotivo]
+
+Tratativa realizada:
+[PlaceHolderTratativa]
+
+Fim do Log
+------------------------------------------------------------------------------------

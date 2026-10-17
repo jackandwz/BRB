@@ -1,0 +1,81 @@
+Quais são os dados de Validação de Segurança (PID) obrigatórios?|Os obrigatórios (se errar 1, encerra o atendimento) são: CPF, Nome Completo, Bandeira e Últimos 4 dígitos do cartão.
+
+Quais são os dados de Validação de Segurança (PID) opcionais?|Os opcionais (pode errar no máximo 1) são: RG/Carteira Nacional de Habilitação, Possui um adicional? (Sim ou Não), Data do Vencimento da Fatura, Valor da Última compra (Valor exato), Valor da última fatura (Valor exato) e se é Puro Crédito ou Múltiplo.
+
+Quais são as regras de senhas dos cartões?|Puro Crédito: 4 dígitos. Múltiplo: 6 dígitos (a senha da função débito é a mesma da senha da função crédito).
+
+Quais casos exigem que o número de telefone do cliente bata exatamente com o cadastro?|Para Limites (Limite Adicional, Alteração de Limite, Transferência de Limite), Cartões (Adicionar Cartão, Alterar Status para Normal/Retirada de Bloqueio), Acesso (Alteração de Dados Cadastrais, Procurações, Cadastro de Curatela, Alterar Domicílio), Digital (Ativar Carteira Digital) e Compras (Habilitar Compras Internacionais, Ativar Aviso Viagem, Ativar Pagamento por Aproximação, Contratar Saque Traz de Volta).
+
+Qual é o procedimento para Capital de Giro (Prova)?|Ocorre quando o cartão BRB é passado em maquininha BRB ou de outra empresa contendo o CPF do titular igual ao dono da maquininha. Gera Bloqueio Código 27. Roteiro de Atendimento: Apresentação, Sondar Código 27, Validação de Segurança, Conferir Dados, Checar na Linha do Tempo do cartão, Ler e coletar o aceite do cliente, Tabular. Prazo: 5 dias para aguardar; se vencer, aguardar Prevenção de Fraude retornar. Jamais voltar para status 0-Ativo (apenas Nível 3 pode). Citar Cláusula 9.1 F (Opcional): Clientes Dux (Dia útil mais 1), Clientes de outros cartões (Dia útil mais 5).
+
+O que fazer quando o cartão novo chega bloqueado (Código 2)?|Código 2 significa Bloqueio de Fábrica. Orientar o cliente a utilizar Chip e senha na primeira compra para ativar o cartão. Efetuar a Validação de Segurança e desbloquear. Atenção: Somente pelo número cadastrado.
+
+Qual o procedimento para senha incorreta (Código 33)?|O número de telefone precisa bater com o cadastro e é obrigatório realizar a Validação de Segurança.
+
+Quais são as regras e custos para Segunda Via de cartão?|Fraude não tem custo. Para os demais casos: Dux custa R$ 340,00 e Outros custam R$ 17,00. O Nível 1 solicita e o cliente acompanha. Tabulação: Solicitar Segunda Via (de acordo com o tipo: Cancelado Perda, Extravio, Danificado ou Roubo).
+
+Qual o caminho no Gestão de Relacionamento com o Cliente para Cancelamento Definitivo?|Menu 'Contas Cartão'. É diferente de bloquear/cancelar um cartão comum ou pedir segunda via. O cancelamento definitivo é realizado junto ao Nível 2 em linha (transferido para retenção). Tabulação: Transferir Atendimento -> Central Retenção, incluindo o motivo do cancelamento no registro manual.
+
+Como funciona o atendimento sobre senha do cartão?|Em caso de esquecimento no cartão Múltiplo, informar que a senha do débito é a mesma do crédito e orientar ir ao banco efetuar a troca (não atendemos BRB Banco, somente Card). Para ver a senha no BRB Card (Crédito): Meu Cartão -> Configurações -> Ver senha -> Realizar Biometria Facial (4 Dígitos).
+
+O que fazer em caso de Compra Negada por Cartão Bloqueado / Suspeita de Fraude?|Jamais utilizar o termo 'Falcon'. Usar no lugar: 'Medida de Segurança', 'Bloqueio de Segurança' ou 'Sistema Antifraude'. O BRB Nível 1 não emite novo cartão (a emissão é gerada ao fim da tabulação). Se o cliente responder 'Sim' à verificação: desbloqueia normalmente. Se responder 'Não': fraude detectada, gera novo cartão, cancela o antigo automaticamente sem custo. Se não responder: fica bloqueado por segurança. Roteiro de Atendimento: Fazer Validação de Segurança, sondar o cliente, orientar a responder a mensagem ou entrar em contato via Chat/WhatsApp (canal de voz não desbloqueia). Tabulação: Transferências -> Transferências Negado Falcon.
+
+O que é o Banco BRB e qual a sua relação com o BRB Card?|A Instituição Banco BRB é diferente de BRB Card; a BRB Card é parte integrante do banco. Criado em 1964 como Agente do Governo, é uma empresa de Economia Mista / Capital Aberto.
+
+Quais são os limites de crédito dos cartões de entrada da linha Conect?|Os cartões da linha Conect têm anuidade gratuita e limite mínimo de R$ 300,00 até o limite máximo de R$ 5.000,00 (inclui Visa Internacional, Visa Nacional, Mulher Conect e UCB Conect/Hospital de Brasília).
+
+Quais são os limites de crédito dos cartões das categorias Gold, Platinum, Black e Dux?|Gold: R$ 1.000,00 a R$ 2.500,00 (pontua). Platinum: R$ 2.000,00 (pontua). Mastercard Black / Visa Ultra Infinity: R$ 15.000,00. Visa Dux: R$ 50.000,00.
+
+Quais cartões não são aceitos em carteiras digitais?|Os cartões com bandeira Mastercard NÃO entram nem funcionam em carteiras digitais.
+
+Quais são os valores de anuidade e parcelamento dos cartões BRB?|Visa Dux, Eurobike, Flamengo e Casacor: 12 vezes de R$ 400,00 = R$ 4.800,00 (máximo R$ 80.000,00). Master Gold: 12 vezes de R$ 45,00 = R$ 540,00. Platinum: 12 vezes de R$ 58,00 = R$ 696,00. Master Black: 12 vezes de R$ 110,00 = R$ 1.320,00.
+
+Como funciona a cobrança da taxa de manutenção da anuidade?|A 1ª via possui isenção nos primeiros 3 meses. A 2ª via + Cartão Virtual são pagos diretamente na próxima fatura.
+
+Quais são os dias de vencimento disponíveis para fatura do cartão?|Os vencimentos disponíveis são nos dias 01, 05, 08, 15, 17, 20 e 25. As datas 07 e 11 não estão mais disponíveis.
+
+O que é a taxa de Limite Adicional e quando ela é cobrada?|Limite Adicional é um limite do tipo cheque especial ativado quando a compra excede 10% ou mais do valor do limite do cartão. Possui uma taxa fixa de R$ 25,00.
+
+Como funciona a regra de parcelamento e refinanciamento do saldo devedor?|O refinanciamento ocorre no saldo rotativo ao pagar o valor mínimo ou parcial da fatura. É permitido a cada 4 meses (120 dias) e autoriza um novo parcelamento em 8 vezes (1 Entrada + 7 Parcelas).
+
+Quais são os prazos e condições para antecipação de parcelamento de fatura?|Pode ser solicitado até 2 vezes por semestre no Portal de Clientes (menu CPF -> Fatura -> Refinanciamento).
+
+O que significa o código de bloqueio 3?|Código 3 significa Bloqueio por Inadimplência/Falta de pagamento.
+
+O que significa o código de bloqueio 8?|Código 8 refere-se ao registro de cobrança do tipo Crédito em Liquidação.
+
+O que significa o código de bloqueio 9?|Código 9 indica bloqueio do tipo PERDA do cartão.
+
+O que significa o código de bloqueio 15?|Código 15 refere-se ao bloqueio por Acordo de Crédito em Liquidação em andamento.
+
+O que significa o código de bloqueio 21?|Código 21 indica bloqueio por Acordo com Escritório de Cobrança externa.
+
+O que é o bloqueio do tipo Código 26?|Código 26 refere-se ao bloqueio do tipo Acordo Perda.
+
+O que significa o código de bloqueio 30?|Código 30 refere-se a bloqueio vinculado a Ação Judicial.
+
+O que significa o código de bloqueio 90?|Código 90 indica que o contrato possui uma Renegociação/Parcelamento ativo.
+
+O que significa o código de bloqueio 92?|Código 92 significa Arrasto de Bloqueio, aplicado em cascata em outros cartões/contas em razão de inadimplência vinculada.
+
+O que significa o código de bloqueio 93 (Crédito em Liquidação)?|Código 93 indica Interrupção de Encargos no Crédito em Liquidação, onde há o congelamento de encargos e a unificação dos valores em aberto/parcelamentos para envio à Central de Cobrança.
+
+O que significa o código de bloqueio 94?|Código 94 refere-se ao registro de Renegociação no histórico.
+
+O que significa o código de bloqueio 111?|Código 111 indica Cancelamento de Acordo no Histórico Migrado.
+
+O que significa a sigla GECOB nas anotações de cobrança?|GECOB refere-se ao status de Perda de Contrato enviado para a gestão e cobrança de perdas.
+
+Qual é a régua completa de ações e cobrança ao ficar inadimplente?|Dias antes do vencimento menos 10: Envio da fatura por e-mail. Dias após vencimento mais 4: Mensagem de Texto de alerta de provisionamento. Dias após vencimento mais 5: Mensagem de Texto diária + Bloqueio do cartão. Dias após vencimento mais 10: Arrasto de bloqueio (Código 92) + Negativação nos órgãos de proteção ao crédito. Dias após vencimento mais 15: Envio para Central de Cobrança. Dias após vencimento mais 20: Mensagem de Texto de alerta e negociação. Dias após vencimento mais 92: Cancelamento definitivo do cartão.
+
+O que é o Boleto de Quitação Total de fatura?|É o boleto para liquidação total de débito, porém ele NÃO contempla compras recentes nem saldos residuais. É voltado apenas para a regularização do contrato.
+
+Como identificar lançamentos de estorno e de gasto na fatura?|Lançamentos de Ajuste/Crédito/Estorno são sinalizados com (-). Lançamentos de Gastos e Débitos são sinalizados com (+).
+
+Quais são os telefones de contato da central de atendimento do BRB Card?|Atendimento via telefone: 4003-4004 (Capitais e Regiões Metropolitanas) ou 0800 880 4004 (Demais Localidades). E-mail oficial: atendimento@brbcard.com.br. Canal de Mensagem de Texto: 28595.
+
+Quais são os custos e serviços da Identificação Veicular BRB (Veloe)?|A Identificação Veicular é da Veloe, com taxa de adesão de R$ 20,00 e mensalidade de R$ 9,90. Permite até 4 carros no Atendimento Telefônico.
+
+O que fazer quando o aplicativo exibe a mensagem "Ops: Não foi possível..."?|Impede o parcelamento devido ao cliente já ter feito parcelamento nos últimos 4 meses. Encaminhar/enviar para o Suporte Técnico via Documento Eletrônico.
+
+Qual é a meta de Tempo Médio de Atendimento estabelecida?|O Tempo Médio de Atendimento deve ser mantido entre 20 e 30 segundos.
